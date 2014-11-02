@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JavaIIWk1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name = "btn_done">Done</string>
+
+    <string-array name="artist_array">
+        <item>Carman</item>
+        <item>Steven Curtis Chapman</item>
+        <item>MercyMe</item>
+        <item>Matt Redman</item>
+        <item>Petra</item>
+    </string-array>
+</resources>
